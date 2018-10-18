@@ -1,5 +1,5 @@
-Spring Boot Demo Application
+Spring Boot Data Mongo Demo
 
-Spring Boot 开发基础模板系你先
+spring boot mongo demo 
+通过 mongo 客户端方式 数据连接读取
 
-开发Spring Boot， APP WEB 从该模板测试开始
